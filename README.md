@@ -1,1 +1,1 @@
-# Walmart-Weekly-sales-Forcasting
+# Walmart-Weekly-sales-Forecasting
